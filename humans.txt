@@ -1,0 +1,11 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+    Rogelio Alberto {@rog3r}
+
+# THANKS
+    Mr. Doob {@mrdoob} and Dr. Woohoo! {@drwoohoo}
+
+# TECHNOLOGY COLOPHON
+    HTML5, Javascript
